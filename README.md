@@ -5,9 +5,9 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Urbaee"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Thoriq-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Urbaee"><img title="Autor" src="https://img.shields.io/badge/AUTHOR-Thoriq-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/Urbaee/followers"><img title="Followers" src="https://img.shields.io/github/followers/Urbaee?color=blue&style=flat-square"></a>
+<a href="https://github.com/Urbaee/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/Urbaee?color=blue&style=flat-square"></a>
 <a href="https://github.com/Urbaee/whatsapp-bot2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Urbaee/whatsapp-bot2?color=red&style=flat-square"></a>
 <a href="https://github.com/Urbaee/whatsapp-bot2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Urbaee/whatsapp-bot2?color=red&style=flat-square"></a>
 <a href="https://github.com/Urbaee/whatsapp-bot2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Urbaee/whatsapp-bot2?label=Watchers&color=blue&style=flat-square"></a>
@@ -33,32 +33,32 @@
   
   
  
-<p align="center"><a href="https://wa.me/62895334962050?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
+<p align="center"><a href="https://wa.me/554598331383?text=%23Ola_Jefferson" target="_blank">Meu Whatsapp</a>.</p>
 </div>
 
 
 
-## Getting Started
+## Começando
 
-This project require NodeJS v12.
+Este Projeto reuquer NodeJS v12.
 
-### Install
-Clone this project
+### Instalando
+Clone este Projeto
 
 ```bash
-> git clone https://github.com/Urbaee/whatsapp-bot2.git
-> cd whatsapp-bot2
+> git clone https://github.com/2031jefferson/Projeto-jefferson.git
+> cd Projeto-jefferson
 ```
 
-Install the dependencies:
+Instale as Dependencias:
 
 ```bash
 > npm install 
 > npm install gify-cli -g
 ```
 
-### Usage
-Run the Whatsapp bot
+### Usando
+Execute o Bot do whatsapp
 
 ```bash
 > npm start
@@ -66,20 +66,11 @@ Run the Whatsapp bot
 
 after running it you need to scan the qr
 
-### Information
-- Change ownerNumber on [this section](https://github.com/thoriqazzikra/whatsapp-bot2/blob/main/HandleMsg.js#L136)
-- Change groupLimit on [this section](https://github.com/thoriqazzikra/whatsapp-bot2/blob/master/settings/setting.json#L3)
-- Change memberLimit on [this section](https://github.com/thoriqazzikra/whatsapp-bo2t/blob/master/settings/setting.json#L4)
-- Change prefix on [this section](https://github.com/thoriqazzikra/whatsapp-bot2/blob/master/settings/setting.json#L5)
-- Change menu on [this section](https://github.com/thoriqazzikra/whatsapp-bot2/blob/master/lib/menu.js#L32)
-- Add kata kasar on [this section](https://github.com/thoriqazzikra/whatsapp-bot2/blob/master/lib/kataKotor.js#L8)
-- Change all apiKey on [this section](https://github.com/thoriqazzikra/whatsapp-bot2/blob/master/settings/api.json)
-- Get Api NoBackground on [this website](https://www.remove.bg/)
-- Get Api ScreenShot on [this website](https://apiflash.com/)
-- `vhtear`: VHTear API token. You can get it [here](https://api.vhtear.com/) by purchasing his API key.
----
+### Informações
+- `vhtear`: Token da API VHTear. Você pode conseguir isso [aqui](https://api.vhtear.com/) comprando sua chave API.
+//->
 
-## Features
+## Recursos
 
 | 18+ Anime |Yes|
 | ------------- | ------------- |
@@ -101,213 +92,215 @@ after running it you need to scan the qr
 | Boobs|✅|
 
 
-| Creator |Yes|
+| Criadores |SIM|
 | ------------- | ------------- |
-| Respond img to sticker|✅|
-| Sticker To Image|✅|
-| TTP|✅|
-| Respond img to sticker no bg|✅|
-| Respond url to sticker|✅|
-| Respond gif to sticker|✅|
-| Respond giphy url to sticker|✅|
-| Make a meme from photo|✅|
-| Quotes maker result pict|✅|
-| Nulis Bot|✅|
-| Glitch Text Maker|✅|
-| Harta Tahta|✅|
+| Responder img em adesivo| ✅ |
+| Adesivo para imagem | ✅ |
+| TTP | ✅ |
+| Enviar img em adesivo sem bg | ✅ |
+| Enviar url em adesivo | ✅ |
+| Enviar GIF em adesivo | ✅ |
+| Enviar url giphy em adesivo | ✅ |
+| Faça um meme da foto | ✅ |
+| Resultado do fabricante das cotações pict | ✅ |
+| Write Bot | ✅ |
+| Glitch Text Maker | ✅ |
+| Tesouro do Trono | ✅ |
 
-| Islam |Yes|
+| Islam |SIM|
 | ------------- | ------------- |
-| List Surah|✅|
-| Info Surah|✅|
-| Surah|✅|
-| Tafsir Alquran|✅|
-| Alquran Audio/Voice|✅|
-| Jadwal solat|✅|
+| Lista Surah | ✅ |
+| Surah Info | ✅ |
+| Surah | ✅ |
+| Tafsir Alquran | ✅ |
+| Áudio / Voz do Alcorão | ✅ |
+| Calendário de oração | ✅ |
 
-| Downloader |Yes|
+| Downloader | Sim |
 | ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Facebook |✅|
-| Instagram |✅|
-| Twitter|✅|
-| Tiktok Video|✅|
+| Youtube Music | ✅ |
+| Vídeo do Youtube | ✅ |
+| Facebook | ✅ |
+| Instagram | ✅ |
+| Twitter | ✅ |
+| Vídeo Tiktok | ✅ |
 
-| Fun Group! |Yes|
+| Fun Grupo! | Sim |
 | ------------- | ------------- |
-| Simi-simi BOT|✅|
-| Anti kata kasar|✅|
-| Family 100|✅|
-| Cak Lontong|✅|
-| Tebak Gambar|✅|
+| Simi-simi BOT | ✅ |
+| Palavras anti-ásperas | ✅ |
+| Família 100 | ✅ |
+| Cak Lontong | ✅ |
+| Adivinhe a imagem | ✅ |
 
-| Primbon |Yes|
+| Primbon | Sim |
 | ------------- | ------------- |
-| Arti nama |✅|
-| Cek Jodoh |✅|
+| Significado do nome | ✅ |
+| Verificação de correspondência | ✅ |
 
-| Searchs |Yes|
+
+| Pesquisas | Sim |
 | ------------- | ------------- |
-| Images |✅|
-| Subreddit |✅|
-| Resep makanan |✅|
-| Stalk IG |✅|
-| Wikipedia |✅|
-| Cuaca |✅|
-| Chord musik |✅|
-| Lirik musik |✅|
-| Screen Crot!|✅|
-| Play music|✅|
-| whats anime?|✅|
+| Imagens | ✅ |
+| Subreddit | ✅ |
+| Receitas de comida | ✅ |
+| Stalk IG | ✅ |
+| Wikipedia | ✅ |
+| Tempo | ✅ |
+| Acorde musical | ✅ |
+| Letras de músicas | ✅ |
+| Tela Crot! | ✅ |
+| Tocar música | ✅ |
+| o que é anime? | ✅ |
 
-| Random text |Yes|
+| Texto aleatório | Sim |
 | ------------- | ------------- |
-| Pantun pakboy|✅|
-| Fakta Menarik|✅|
-| Kata Bijak|✅|
-| Quotes|✅|
-| Cerita Sex|✅|
-| Cerita Pendek|✅|
-| Puisi|✅|
+| Pantun pakboy | ✅ |
+| Fatos interessantes | ✅ |
+| Palavras de Sabedoria | ✅ |
+| Cotações | ✅ |
+| História de sexo | ✅ |
+| História curta | ✅ |
+| Poesia | ✅ |
 
-| Random image |Yes|
+| Imagem aleatória | Sim |
 | ------------- | ------------- |
-| Anime |✅|
-| Kpop |✅|
-| Memes |✅|
+| Anime | ✅ |
+| Kpop | ✅ |
+| Memes | ✅ |
 
 
-| Others |Yes|
+| Outros | Sim |
 | ------------- | ------------- |
-| Teks to Sound/Voice|✅|
-| Translate teks|✅|
-| Get covid info from map|✅|
-| Covid-19 Indo|✅|
-| Shortlink|✅|
-| Bap4k F0nt|✅|
-| Get Group Link|✅|
-| Get Admin List|✅|
-| Get List Blocked|✅|
-| Get List Banned|✅|
-| Get Group Info|✅|
-| Get Profile Info|✅|
-| Steal Picture|✅|
-| Brainly|✅|
-| Matematika|✅|
-| Rate Me|✅|
-| Kapan|✅|
-| Apakah|✅|
-| Bisakah|✅|
-| Ai Quote|✅|
-| Doggo|✅|
-| Get Owner Group|✅|
-| Dewa Batch|✅|
-| How Much in Group|✅|
-| Group Bot|✅|
-| WP Anime|✅|
-| Penyegar Timeline|✅|
-| Google Search|✅|
-| Sider|✅|
-| Bokep|✅|
-| Bokep 2|✅|
-| Wallpaper|✅|
-| Wallpaper 2|✅|
-| Neko|✅|
-| Loli|✅|
-| Loli NSFW|✅|
-| Baka!|✅|
-| Waifu|✅|
-| Anime Avatar|✅|
-| Say List|✅|
-| Add Say!|✅|
-| Say!|✅|
-| Delete Say|✅|
-| Bacot List|✅|
-| Add Bacot|✅|
-| Bacot|✅|
-| Delete Bacot|✅|
-| Tag|✅|
-| Get User Picture|✅|
-| Jadian|✅|
-| Ava|✅|
-| KBBI|✅|
-| Logo Pornhub|✅|
-| Truth or Dare|✅|
-| Distance|✅|
-| Shopee|✅|
-| Play Store|✅|
-| YouTube Search|✅|
-| Play Youtube Video|✅|
-| Simi|✅|
-| Kusonime|✅|
-| Arti Mimpi|✅|
-| Emoji To Sticker|✅|
-| Asupan|✅|
-| Stalk Twitter|✅|
-| IG Story|✅|
-| Find Sticker|✅|
-| GSM Arena|✅|
-| Detail City|✅|
-| Info Alamat|✅|
-| More++|✅|
+| Teks to Sound / Voice | ✅ |
+| Traduzir teks | ✅ |
+| Obtenha informações secretas do mapa | ✅ |
+| Covid-19 Indo | ✅ |
+| Shortlink | ✅ |
+| Bap4k F0nt | ✅ |
+| Obter Link do Grupo | ✅ |
+| Obter lista de administradores | ✅ |
+| Obter lista bloqueados | ✅ |
+| Obter lista banidos | ✅ |
+| Obter informações do grupo | ✅ |
+| Obter informações de perfil | ✅ |
+| Roubar imagem | ✅ |
+| Brainly | ✅ |
+| Matematica | ✅ |
+| Avalie-me | ✅ |
+| Kapan | ✅ |
+| Apakah | ✅ |
+| Bisakah | ✅ |
+| Citação Ai | ✅ |
+| Doggo | ✅ |
+| Obter Proprietário do Grupo | ✅ |
+| Dewa Batch | ✅ |
+| Quanto no Grupo | ✅ |
+| Grupo Bot | ✅ |
+| WP Anime | ✅ |
+| Penyegar Cronograma | ✅ |
+| Pesquisa Google | ✅ |
+| Sider | ✅ |
+| Bokep | ✅ |
+| Bokep 2 | ✅ |
+| Papel de parede | ✅ |
+| Papel de parede 2 | ✅ |
+| Neko | ✅ |
+| Loli | ✅ |
+| Loli NSFW | ✅ |
+| Baka! | ✅ |
+| Waifu | ✅ |
+| Avatar de anime | ✅ |
+| Diga Lista | ✅ |
+| Adicionar Say! | ✅ |
+| Diga! | ✅ |
+| Excluir Say | ✅ |
+| Lista Bacot | ✅ |
+| Adicionar Bacot | ✅ |
+| Bacot | ✅ |
+| Excluir Bacot | ✅ |
+| Tag | ✅ |
+| Obter foto do usuário | ✅ |
+| Jadian | ✅ |
+| Ava | ✅ |
+| KBBI | ✅ |
+| Logo Pornhub | ✅ |
+| Verdade ou Desafio | ✅ |
+| Distância | ✅ |
+| Shopee | ✅ |
+| Play Store | ✅ |
+| Pesquisa no YouTube | ✅ |
+| Reproduzir vídeo do Youtube | ✅ |
+| Simi | ✅ |
+| Kusonime | ✅ |
+| Arti Mimpi | ✅ |
+| Emoji para etiqueta | ✅ |
+| Asupan | ✅ |
+| Stalk Twitter | ✅ |
+| IG Story | ✅ |
+| Encontre a etiqueta | ✅ |
+| GSM Arena | ✅ |
+| Detalhe Cidade | ✅ |
+| Informações Alamat | ✅ |
+| Mais ++ | ✅ |
 
 
-| Images |Yes|
+| Imagens | Sim |
 | --------------- | ----------- |
-| Aesthetic|✅|
-| Amelia Andani|✅|
-| Random Cecan|✅|
-| Random Cogan|✅|
+| Estética | ✅ |
+| Amelia Andani | ✅ |
+| Random Cecan | ✅ |
+| Random Cogan | ✅ |
 
-| Groups |Yes|
+| Grupos | Sim |
 | ------------- | ------------- |
-| Owner||
-| Kick all members|✅|
-| Admin||
-| Add user|✅|
-| Kick user|✅|
-| Promote User|✅|
-| Demote User|✅|
-| Mute Group|✅|
-| Change Group icon|✅|
-| Delete bot msg|✅|
-| Tagall/mentions all|✅|
-| Revoke Link Group|✅|
-| Set Group Name|✅|
-| Resend Messages|✅|
-| Anti Link|✅|
+| Proprietário ||
+| Expulsar todos os membros | ✅ |
+| Admin ||
+| Adicionar usuário | ✅ |
+| Kick user | ✅ |
+| Promova o usuário | ✅ |
+| Usuário rebaixado | ✅ |
+| Grupo Mute | ✅ |
+| Ícone de mudança de grupo | ✅ |
+| Excluir mensagem do bot | ✅ |
+| Tagall / menciona todos | ✅ |
+| Revogar grupo de links | ✅ |
+| Definir nome do grupo | ✅ |
+| Reenviar mensagens | ✅ |
+| Anti Link | ✅ |
 
-| Owner bot |Yes|
+| Proprietário do bot | Sim |
 | ------------- | ------------- |
-| Broadcast|✅|
-| Leave all group|✅|
-| Delete all msgs|✅|
-| Banned user|✅|
-| Set Status Bot|✅|
-| Set Name Bot|✅|
-| Screenshot Session|✅|
-| Add Premium|✅|
-| Delete Premium|✅|
+| Transmitir | ✅ |
+| Sair de todo o grupo | ✅ |
+| Apagar todas as mensagens | ✅ |
+| Usuário banido | ✅ |
+| Definir bot de status | ✅ |
+| Definir nome do bot | ✅ |
+| Sessão de captura de tela | ✅ |
+| Adicionar Premium | ✅ |
+| Excluir Premium | ✅ |
 
 
-## To-Do
- - Add Media Downloader
- - Add More Feature
- - More refactoring
+## Façam
+ - Adicionar baixador de mídia
+ - Adicionar mais recurso
+ - Mais refatoração
  
 ---
 
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
+## Solução de problemas
+Certifique-se de que todas as dependências necessárias estejam instaladas: https://github.com/puppeteer/puppeteer/blob/main/docs/trou troubleshooting.md
 
-Fix Stuck on linux, install google chrome stable: 
+Corrija o travamento no Linux, instale o Google Chrome Stable:
+
 ```bash
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 
-## Thanks to
+## Obrigado a
 - [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
 - [YogaSakti](https://github.com/YogaSakti/imageToSticker)
 - [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)

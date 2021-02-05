@@ -1,0 +1,23 @@
+{
+    "id": 1017,
+    "nome": "Tyren", 
+    "classe": "Feitiçeira", 
+    "sexo": "Fem", 
+    "for":"11",
+    "agi":"13",
+    "mag":"13",
+    "esp":"14",
+    "vel":"15", 
+    "vit":"10",
+    "estatistica": { 
+        "mp": 312, 
+        "eva": 0, 
+        "eva_m": 0, 
+        "prec": 0, 
+        "arm": 0, 
+        "arm_m": 0, 
+        "dex": 0,
+        "mnt": 0,
+        "exp": 0
+    } 
+}

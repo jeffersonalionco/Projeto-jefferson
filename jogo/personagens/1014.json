@@ -1,0 +1,23 @@
+{
+    "id": 1014, 
+    "nome": "Uriel", 
+    "classe": "Sacerdote", 
+    "sexo": "Masc", 
+    "for":"10",
+    "agi":"13",
+    "mag":"15",
+    "esp":"15",
+    "vel":"15", 
+    "vit":"19",
+    "estatistica": { 
+        "mp": 300, 
+        "eva": 0, 
+        "eva_m": 0, 
+        "prec": 0, 
+        "arm": 0, 
+        "arm_m": 0, 
+        "dex": 0,
+        "mnt": 0,
+        "exp": 0
+    } 
+}

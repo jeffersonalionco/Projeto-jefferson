@@ -1,0 +1,23 @@
+{
+    "id": 1013, 
+    "nome": "Sethos", 
+    "classe": "Mistico", 
+    "sexo": "Masc", 
+    "for":"11",
+    "agi":"14",
+    "mag":"13",
+    "esp":"13",
+    "vel":"16", 
+    "vit":"14",
+    "estatistica": { 
+        "mp": 289, 
+        "eva": 0, 
+        "eva_m": 0, 
+        "prec": 0, 
+        "arm": 0, 
+        "arm_m": 0, 
+        "dex": 0,
+        "mnt": 0,
+        "exp": 0
+    } 
+}

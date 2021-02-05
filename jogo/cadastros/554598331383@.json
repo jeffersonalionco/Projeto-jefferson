@@ -1,0 +1,30 @@
+
+
+{
+"nome": "Jefferson",
+"username": "jefferson",
+"classe": "Defina um heroi",
+"atributos": {
+    "armadura": {"maximo": 100, "minimo": 1}, 
+    "nivel": 1, 
+    "evasao": {"maximo": 10, "minimo": 1},
+    "hp": {"atual": 1000, "minimo": 0, "maximo": 30}, 
+    "vit": {"atual": "block", "minimo": 0, "maximo": 30}, 
+    "agi": {"atual": "block", "minimo": 0, "maximo": 30}, 
+    "vel": {"atual": "block", "minimo": 0, "maximo": 30},
+    "mag": {"atual": "block", "minimo": 0, "maximo": 30},
+    "esp": {"atual": "block", "minimo": 0, "maximo": 30},
+    "estatistica": { 
+        "mp": 35, 
+        "eva": 60, 
+        "eva_m": 45, 
+        "prec": 87, 
+        "arm": 400, 
+        "arm_m": 387, 
+        "dex": 0,
+        "mnt": 300,
+        "exp": 259
+        }
+
+}
+}

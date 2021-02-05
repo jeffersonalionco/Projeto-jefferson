@@ -1,0 +1,23 @@
+{
+    "id": 1011,
+    "nome": "Alastor", 
+    "classe": "Guerreiro", 
+    "sexo": "Masc", 
+    "for":13,
+    "agi":13, 
+    "mag":3, 
+    "esp":12, 
+    "vel":12, 
+    "vit":14, 
+    "estatistica": { 
+        "mp": 35, 
+        "eva": 60, 
+        "eva_m": 45, 
+        "prec": 87, 
+        "arm": 400, 
+        "arm_m": 387, 
+        "dex": 0,
+        "mnt": 300,
+        "exp": 259
+    } 
+}

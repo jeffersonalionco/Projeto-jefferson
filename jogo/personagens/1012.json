@@ -1,0 +1,23 @@
+{
+    "id": 1012, 
+    "nome": "Bombur", 
+    "classe": "Guerreiro", 
+    "sexo": "Masc", 
+    "for":"16",
+    "agi":"9",
+    "mag":"14",
+    "esp":"10",
+    "vel":"9", 
+    "vit":"14",
+    "estatistica": { 
+        "mp": 325, 
+        "eva": 0, 
+        "eva_m": 0, 
+        "prec": 0, 
+        "arm": 0, 
+        "arm_m": 0, 
+        "dex": 0,
+        "mnt": 0,
+        "exp": 0
+    } 
+}

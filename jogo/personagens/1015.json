@@ -1,0 +1,23 @@
+{
+    "id": 1015, 
+    "nome": "Irina", 
+    "classe": "Maquinistra", 
+    "sexo": "Fem", 
+    "for":"11",
+    "agi":"13",
+    "mag":"13",
+    "esp":"11",
+    "vel":"17", 
+    "vit":"15",
+    "estatistica": { 
+        "mp": 396, 
+        "eva": 0, 
+        "eva_m": 0, 
+        "prec": 0, 
+        "arm": 0, 
+        "arm_m": 0, 
+        "dex": 0,
+        "mnt": 0,
+        "exp": 0
+    } 
+}

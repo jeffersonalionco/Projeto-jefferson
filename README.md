@@ -18,13 +18,13 @@
   
   
 <p align="left">
-<a href="https://github.com/Urbaee/whatsapp-bot2">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urbaee&repo=whatsapp-bot2&theme=dark" />
+<a href="https://chat.whatsapp.com/1nSOPC5oRJgEhhCRQXTQLH">
+ <img align="center" src="https://chat.whatsapp.com/1nSOPC5oRJgEhhCRQXTQLH" />
   </p>
 
   
   
-## Things I Code With
+## Coisas que eu codifico
 <p>
     <img
         src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
